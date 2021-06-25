@@ -1,0 +1,12 @@
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.DAL\bin\Debug\netstandard2.1\Loan.Infrastructure.DAL.deps.json
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.DAL\bin\Debug\netstandard2.1\Loan.Infrastructure.DAL.dll
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.DAL\bin\Debug\netstandard2.1\Loan.Infrastructure.DAL.pdb
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.DAL\bin\Debug\netstandard2.1\Loan.ApplicationCore.dll
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.DAL\bin\Debug\netstandard2.1\Loan.ApplicationCore.pdb
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.DAL\obj\Debug\netstandard2.1\Loan.Infrastructure.DAL.csprojAssemblyReference.cache
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.DAL\obj\Debug\netstandard2.1\Loan.Infrastructure.DAL.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.DAL\obj\Debug\netstandard2.1\Loan.Infrastructure.DAL.AssemblyInfo.cs
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.DAL\obj\Debug\netstandard2.1\Loan.Infrastructure.DAL.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.DAL\obj\Debug\netstandard2.1\Loan.Infrastructure.DAL.csproj.CopyComplete
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.DAL\obj\Debug\netstandard2.1\Loan.Infrastructure.DAL.dll
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.DAL\obj\Debug\netstandard2.1\Loan.Infrastructure.DAL.pdb

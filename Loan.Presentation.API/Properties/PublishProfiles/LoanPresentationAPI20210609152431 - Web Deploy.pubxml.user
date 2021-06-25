@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAE+B/UqKgokWvfdrwTUl8YwAAAAACAAAAAAAQZgAAAAEAACAAAADJzFC7JdLd1PZH2MGKzZw0DXYRMK+Kzyu+Ox7SQy9gZgAAAAAOgAAAAAIAACAAAAAPzC6jYz/nAq8BBozx9pyjeu2q/9PWpcqIwCrWdoF9zYAAAADn2x28t3zft/u+vP1k1EJ4oswTVZntMJTYrK8WiswAX32APsCiA8EH6Pzjw6bS1DPJafWq9mnYXKpV9vEAaMGPul65yJAZe8pJOwTxT3uhSuGLzjwqJuTv/qbL8ghUpLgOfa6ZDWv/S9vGP5nT1ojWJl1MRJz3dxRFLFpevBr5bEAAAADXZY34+5M66WdzFZHLDDTkvOD2hvreW5EVLlX5uhPH1prN08Y7bJDyaqo+NMzlxylKD6OeyrcnIixElVu9P+4b</EncryptedPassword>
+    <History>True|2021-06-24T20:16:43.9322608Z;False|2021-06-24T21:15:10.8239925+01:00;False|2021-06-24T21:13:27.8291410+01:00;True|2021-06-24T16:40:33.2892741+01:00;True|2021-06-24T16:38:52.3865710+01:00;True|2021-06-23T02:06:02.2044713+01:00;False|2021-06-23T02:04:28.1361523+01:00;True|2021-06-21T02:18:13.3740360+01:00;True|2021-06-17T10:42:40.3230030+01:00;True|2021-06-17T10:32:14.8996450+01:00;True|2021-06-17T10:19:48.7933528+01:00;True|2021-06-17T10:09:40.1863172+01:00;True|2021-06-17T09:50:29.8025861+01:00;True|2021-06-17T09:38:46.5949377+01:00;True|2021-06-17T09:33:22.5256328+01:00;True|2021-06-17T09:25:29.0330008+01:00;True|2021-06-16T16:01:51.0121583+01:00;True|2021-06-11T12:15:33.5569472+01:00;True|2021-06-11T12:08:42.5381713+01:00;True|2021-06-11T12:03:29.8766550+01:00;True|2021-06-09T22:42:55.7540519+01:00;True|2021-06-09T20:57:26.7503667+01:00;True|2021-06-09T18:28:09.7671824+01:00;True|2021-06-09T16:48:51.9243138+01:00;False|2021-06-09T16:47:31.7463628+01:00;True|2021-06-09T16:32:25.4528267+01:00;False|2021-06-09T16:31:16.6757094+01:00;False|2021-06-09T16:27:06.3333451+01:00;False|2021-06-09T16:26:26.3187726+01:00;True|2021-06-09T16:24:31.1047882+01:00;True|2021-06-09T15:47:40.3161094+01:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:loanappcodebits.database.windows.net,1433%3bInitial Catalog=Loan.Presentation.API_db%3bUser Id=ainaea%40loanappcodebits%3bPassword=jjj716-cv</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Loan.Infrastructure.DAL.DBContext.LoanDbContext">
+      <Value>Data Source=tcp:loanappcodebits.database.windows.net,1433%3bInitial Catalog=Loan.Presentation.API_db%3bUser Id=ainaea%40loanappcodebits%3bPassword=jjj716-cv</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

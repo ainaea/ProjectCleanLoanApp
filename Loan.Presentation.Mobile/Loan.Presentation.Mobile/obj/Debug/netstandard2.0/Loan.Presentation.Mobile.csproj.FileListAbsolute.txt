@@ -1,0 +1,14 @@
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Presentation.Mobile\Loan.Presentation.Mobile\bin\Debug\netstandard2.0\Loan.Presentation.Mobile.deps.json
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Presentation.Mobile\Loan.Presentation.Mobile\bin\Debug\netstandard2.0\Loan.Presentation.Mobile.dll
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Presentation.Mobile\Loan.Presentation.Mobile\bin\Debug\netstandard2.0\ref\Loan.Presentation.Mobile.dll
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Presentation.Mobile\Loan.Presentation.Mobile\bin\Debug\netstandard2.0\Loan.Presentation.Mobile.pdb
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Presentation.Mobile\Loan.Presentation.Mobile\obj\Debug\netstandard2.0\Loan.Presentation.Mobile.csprojAssemblyReference.cache
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Presentation.Mobile\Loan.Presentation.Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Presentation.Mobile\Loan.Presentation.Mobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Presentation.Mobile\Loan.Presentation.Mobile\obj\Debug\netstandard2.0\Loan.Presentation.Mobile.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Presentation.Mobile\Loan.Presentation.Mobile\obj\Debug\netstandard2.0\Loan.Presentation.Mobile.AssemblyInfo.cs
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Presentation.Mobile\Loan.Presentation.Mobile\obj\Debug\netstandard2.0\Loan.Presentation.Mobile.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Presentation.Mobile\Loan.Presentation.Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Presentation.Mobile\Loan.Presentation.Mobile\obj\Debug\netstandard2.0\Loan.Presentation.Mobile.dll
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Presentation.Mobile\Loan.Presentation.Mobile\obj\Debug\netstandard2.0\ref\Loan.Presentation.Mobile.dll
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Presentation.Mobile\Loan.Presentation.Mobile\obj\Debug\netstandard2.0\Loan.Presentation.Mobile.pdb

@@ -1,0 +1,9 @@
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.ApplicationCore\bin\Debug\netstandard2.1\Loan.ApplicationCore.deps.json
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.ApplicationCore\bin\Debug\netstandard2.1\Loan.ApplicationCore.dll
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.ApplicationCore\bin\Debug\netstandard2.1\Loan.ApplicationCore.pdb
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.ApplicationCore\obj\Debug\netstandard2.1\Loan.ApplicationCore.csprojAssemblyReference.cache
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.ApplicationCore\obj\Debug\netstandard2.1\Loan.ApplicationCore.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.ApplicationCore\obj\Debug\netstandard2.1\Loan.ApplicationCore.AssemblyInfo.cs
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.ApplicationCore\obj\Debug\netstandard2.1\Loan.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.ApplicationCore\obj\Debug\netstandard2.1\Loan.ApplicationCore.dll
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.ApplicationCore\obj\Debug\netstandard2.1\Loan.ApplicationCore.pdb

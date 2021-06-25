@@ -1,0 +1,14 @@
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.IoC\bin\Release\netstandard2.1\Loan.Infrastructure.IoC.deps.json
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.IoC\bin\Release\netstandard2.1\Loan.Infrastructure.IoC.dll
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.IoC\bin\Release\netstandard2.1\Loan.Infrastructure.IoC.pdb
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.IoC\bin\Release\netstandard2.1\Loan.ApplicationCore.dll
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.IoC\bin\Release\netstandard2.1\Loan.Infrastructure.DAL.dll
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.IoC\bin\Release\netstandard2.1\Loan.ApplicationCore.pdb
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.IoC\bin\Release\netstandard2.1\Loan.Infrastructure.DAL.pdb
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.IoC\obj\Release\netstandard2.1\Loan.Infrastructure.IoC.csprojAssemblyReference.cache
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.IoC\obj\Release\netstandard2.1\Loan.Infrastructure.IoC.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.IoC\obj\Release\netstandard2.1\Loan.Infrastructure.IoC.AssemblyInfo.cs
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.IoC\obj\Release\netstandard2.1\Loan.Infrastructure.IoC.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.IoC\obj\Release\netstandard2.1\Loan.Infrastructure.IoC.csproj.CopyComplete
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.IoC\obj\Release\netstandard2.1\Loan.Infrastructure.IoC.dll
+C:\CodebitsAcademy\ClassSession\ASP.NETCore\LoanAppCleanArchitecture\Loan.Infrastructure.IoC\obj\Release\netstandard2.1\Loan.Infrastructure.IoC.pdb
